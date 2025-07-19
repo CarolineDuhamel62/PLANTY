@@ -1,0 +1,7 @@
+[19-Jul-2025 16:21:33 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\emmel\Local Sites\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 926
+[19-Jul-2025 16:21:34 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\emmel\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 958
+[19-Jul-2025 16:21:34 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\emmel\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 960
+[19-Jul-2025 16:21:34 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\emmel\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 967
+[19-Jul-2025 16:21:34 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\emmel\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 968
+[19-Jul-2025 16:21:34 UTC] PHP Warning:  Undefined variable $qsid in C:\Users\emmel\Local Sites\planty\app\public\wp-content\plugins\child-theme-configurator\includes\classes\CSS.php on line 971
+[19-Jul-2025 16:21:39 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\emmel\Local Sites\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 926
