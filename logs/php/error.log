@@ -22,3 +22,4 @@
 [22-Jul-2025 17:13:59 UTC] PHP Warning:  Attempt to read property "title" on null in C:\Users\emmel\Local Sites\planty\app\public\wp-includes\class-wp-customize-widgets.php on line 926
 [23-Jul-2025 06:22:26 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\emmel\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
 [23-Jul-2025 06:23:24 UTC] PHP Warning:  Undefined array key "editor_post_id" in C:\Users\emmel\Local Sites\planty\app\public\wp-content\plugins\elementor\modules\history\revisions-manager.php on line 363
+[23-Jul-2025 08:45:41 UTC] PHP Warning:  foreach() argument must be of type array|object, int given in C:\Users\emmel\Local Sites\planty\app\public\wp-content\plugins\all-in-one-wp-migration\uninstall.php on line 39
