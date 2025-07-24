@@ -23,7 +23,7 @@ div.wpforms-container-full .wpforms-form button[type=submit] {
 background-color:#E0B9B4;border-color:#E0B9B4;border-radius:5px;
 }
 
-div.wpforms-container-full .wpforms-form button[type=submit] {
+#wpforms-container-full .wpforms-form button[type=submit] {
     margin: 0 auto;
     display: block;
 	
@@ -68,3 +68,30 @@ background-color:#E0B9B4;border-color:#E0B9B4;border-radius:5px;
 }
 
 .form-bouton{justify-self: center;}
+
+.form-commande h3{
+    
+    color: #FFFFFF;
+    font-family: "Syne", Sans-serif;
+    font-size: 30px;
+    font-weight: 700;
+}
+
+#menu-item-22 {
+   background-color: #E0B9B4;}
+
+   #menu-item-22 a {
+    background-color: #DC9F96;
+    color: #FFFFFF !important;
+}
+#menu-item-22 a {
+    height: 80px;
+    width: 236px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.form-commande  {
+    color: white;
+}
