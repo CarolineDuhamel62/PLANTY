@@ -30,6 +30,7 @@ background-color:#E0B9B4;border-color:#E0B9B4;border-radius:5px;
 }
 
 .form-commande{display:flex;justify-content:center;}
+
 @media screen and (max-width: 768px) {
 .form-commande{
    flex-direction: column;
@@ -75,6 +76,11 @@ background-color:#E0B9B4;border-color:#E0B9B4;border-radius:5px;
     font-family: "Syne", Sans-serif;
     font-size: 30px;
     font-weight: 700;
+
+}
+#bouton-commande {
+    background-color: #E0B9B4;
+    color: #FFFFFF !important;
 }
 
 #menu-item-22 {
@@ -99,6 +105,9 @@ background-color:#E0B9B4;border-color:#E0B9B4;border-radius:5px;
     font-weight: 700;
 }
 
+#menu-item-23, #admin, .hfe-site-logo{
+    margin-top: 15px;
+}
 
 
 

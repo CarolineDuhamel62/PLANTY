@@ -26,7 +26,7 @@ add_filter( 'wp_nav_menu_items', 'add_extra_item_to_nav_menu', 10, 2 );
     function add_extra_item_to_nav_menu( $items, $args ) {
         //var_dump( $args->menu );exit
     if (is_user_logged_in() && $args->menu == "menu-header") {
-        $admin_link = '<li class="menu-item"><a  class="hfe-menu-item" href="' . admin_url() . '">Admin</a></li>';
+        $admin_link = '<li id="admin" class="menu-item"><a  class="hfe-menu-item" href="' . admin_url() . '">Admin</a></li>';
 
         $items_array = explode( '</li>', $items );
         array_splice( $items_array, 1, 0, $admin_link );
