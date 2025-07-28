@@ -94,4 +94,15 @@ background-color:#E0B9B4;border-color:#E0B9B4;border-radius:5px;
 
 .form-commande  {
     color: white;
+    font-family: "Syne", Sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+}
+
+
+
+
+
+.elementor elementor-27 {
+    margin-right: 0;
 }
